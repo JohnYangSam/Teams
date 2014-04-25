@@ -35,11 +35,10 @@ Teams for External Reviews and End of Quarter Projects
 #####Team:
   * Paul Benigeri
   * John Yang Sammataro
-  * John Morgan
   * Ray Zhou
   * Anjney Midha
   * Liu Jiang
-  * **Presenting:** May 19
+  * **Presenting:** May 19: Comparison of Instituational Banking Policies on Bitcoin
 
 #####Team L2 Cash:
   * Saurab Sharan
