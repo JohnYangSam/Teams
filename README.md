@@ -38,7 +38,7 @@ Teams for External Reviews and End of Quarter Projects
   * Ray Zhou
   * Anjney Midha
   * Liu Jiang
-  * **Presenting:** May 19: Comparison of Instituational Banking Policies on Bitcoin
+  * **Presenting:** May 19: Truthcoin Technology and Implications Review
 
 #####Team L2 Cash:
   * Saurab Sharan
